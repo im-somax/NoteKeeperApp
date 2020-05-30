@@ -1,0 +1,8 @@
+C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\java\com\somax\todolistmanager\database\Note.kt
+C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\java\com\somax\todolistmanager\database\NoteDao.kt
+C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\java\com\somax\todolistmanager\database\NoteDatabase.kt
+C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\java\com\somax\todolistmanager\screens\AddNoteFragment.kt
+C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\java\com\somax\todolistmanager\screens\HomeFragment.kt
+C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\java\com\somax\todolistmanager\screens\MainActivity.kt
+C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\build\generated\source\navigation-args\debug\com\somax\todolistmanager\screens\AddNoteFragmentDirections.kt
+C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\build\generated\source\navigation-args\debug\com\somax\todolistmanager\screens\HomeFragmentDirections.kt

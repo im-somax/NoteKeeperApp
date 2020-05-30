@@ -15,7 +15,7 @@ abstract class NoteDatabase : RoomDatabase(){
 
     companion object{
 
-        @Volatile private val instance : NoteDatabase? = null
+        @Volatile private var instance : NoteDatabase? = null
 
         private val LOCK = Any()
 
