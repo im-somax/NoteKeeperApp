@@ -25,32 +25,31 @@
 17-->C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
 18-->C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:10:9-35
-19        android:testOnly="true"
-20        android:theme="@style/AppTheme" >
-20-->C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:11:9-40
-21        <activity android:name="com.somax.todolistmanager.MainActivity" >
-21-->C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:12:9-18:20
-21-->C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:12:19-47
-22            <intent-filter>
-22-->C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:13:13-17:29
-23                <action android:name="android.intent.action.MAIN" />
-23-->C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:14:17-69
-23-->C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:14:25-66
-24
-25                <category android:name="android.intent.category.LAUNCHER" />
-25-->C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:16:17-77
-25-->C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:16:27-74
-26            </intent-filter>
-27        </activity>
-28
-29        <service
-29-->[androidx.room:room-runtime:2.2.5] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9ee56bdf730b0eb082c01778a2d8860e\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
-30            android:name="androidx.room.MultiInstanceInvalidationService"
-30-->[androidx.room:room-runtime:2.2.5] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9ee56bdf730b0eb082c01778a2d8860e\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
-31            android:directBootAware="true"
-31-->[androidx.room:room-runtime:2.2.5] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9ee56bdf730b0eb082c01778a2d8860e\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
-32            android:exported="false" />
-32-->[androidx.room:room-runtime:2.2.5] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9ee56bdf730b0eb082c01778a2d8860e\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
-33    </application>
-34
-35</manifest>
+19        android:theme="@style/AppTheme" >
+19-->C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:11:9-40
+20        <activity android:name="com.somax.todolistmanager.MainActivity" >
+20-->C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:12:9-18:20
+20-->C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:12:19-47
+21            <intent-filter>
+21-->C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:13:13-17:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:14:17-69
+22-->C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:14:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:16:17-77
+24-->C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:16:27-74
+25            </intent-filter>
+26        </activity>
+27
+28        <service
+28-->[androidx.room:room-runtime:2.2.5] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9ee56bdf730b0eb082c01778a2d8860e\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+29            android:name="androidx.room.MultiInstanceInvalidationService"
+29-->[androidx.room:room-runtime:2.2.5] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9ee56bdf730b0eb082c01778a2d8860e\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+30            android:directBootAware="true"
+30-->[androidx.room:room-runtime:2.2.5] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9ee56bdf730b0eb082c01778a2d8860e\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+31            android:exported="false" />
+31-->[androidx.room:room-runtime:2.2.5] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9ee56bdf730b0eb082c01778a2d8860e\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+32    </application>
+33
+34</manifest>
