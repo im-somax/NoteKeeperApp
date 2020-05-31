@@ -80,6 +80,10 @@
         "source": "C:\\Users\\Somax\\Downloads\\Kotlin_1\\Udacity_Developing_Android_Apps_with_Kotlin\\andfun_kotlin\\apps\\ToDoListManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_check.png"
     },
     {
+        "merged": "C:\\Users\\Somax\\Downloads\\Kotlin_1\\Udacity_Developing_Android_Apps_with_Kotlin\\andfun_kotlin\\apps\\ToDoListManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_notes_layout.xml.flat",
+        "source": "C:\\Users\\Somax\\Downloads\\Kotlin_1\\Udacity_Developing_Android_Apps_with_Kotlin\\andfun_kotlin\\apps\\ToDoListManager\\app\\src\\main\\res\\layout\\notes_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\Somax\\Downloads\\Kotlin_1\\Udacity_Developing_Android_Apps_with_Kotlin\\andfun_kotlin\\apps\\ToDoListManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add.png.flat",
         "source": "C:\\Users\\Somax\\Downloads\\Kotlin_1\\Udacity_Developing_Android_Apps_with_Kotlin\\andfun_kotlin\\apps\\ToDoListManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add.png"
     },
