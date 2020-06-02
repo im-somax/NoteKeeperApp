@@ -136,6 +136,10 @@
         "source": "C:\\Users\\Somax\\Downloads\\Kotlin_1\\Udacity_Developing_Android_Apps_with_Kotlin\\andfun_kotlin\\apps\\ToDoListManager\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\Somax\\Downloads\\Kotlin_1\\Udacity_Developing_Android_Apps_with_Kotlin\\andfun_kotlin\\apps\\ToDoListManager\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\Somax\\Downloads\\Kotlin_1\\Udacity_Developing_Android_Apps_with_Kotlin\\andfun_kotlin\\apps\\ToDoListManager\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
         "merged": "C:\\Users\\Somax\\Downloads\\Kotlin_1\\Udacity_Developing_Android_Apps_with_Kotlin\\andfun_kotlin\\apps\\ToDoListManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Somax\\Downloads\\Kotlin_1\\Udacity_Developing_Android_Apps_with_Kotlin\\andfun_kotlin\\apps\\ToDoListManager\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },

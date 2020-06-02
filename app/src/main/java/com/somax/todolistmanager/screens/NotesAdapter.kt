@@ -11,7 +11,6 @@ import kotlinx.android.synthetic.main.notes_layout.view.*
 
 class NotesAdapter(private val notes: List<Note>) : RecyclerView.Adapter<NotesAdapter.NoteViewHolder>(){
 
-
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): NoteViewHolder {
         return NoteViewHolder(
             LayoutInflater.from(parent.context)

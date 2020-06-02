@@ -1,11 +1,8 @@
 package com.somax.todolistmanager.screens
 
 import android.app.AlertDialog
-import android.os.AsyncTask
 import android.os.Bundle
 import android.view.*
-import android.widget.Toast
-import androidx.fragment.app.Fragment
 import androidx.navigation.Navigation
 import com.somax.todolistmanager.R
 import com.somax.todolistmanager.database.Note

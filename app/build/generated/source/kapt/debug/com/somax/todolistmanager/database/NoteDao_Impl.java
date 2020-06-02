@@ -26,6 +26,8 @@ public final class NoteDao_Impl implements NoteDao {
 
   private final EntityInsertionAdapter<Note> __insertionAdapterOfNote;
 
+  private final EntityDeletionOrUpdateAdapter<Note> __deletionAdapterOfNote;
+
   private final EntityDeletionOrUpdateAdapter<Note> __updateAdapterOfNote;
 
   public NoteDao_Impl(RoomDatabase __db) {
@@ -49,6 +51,17 @@ public final class NoteDao_Impl implements NoteDao {
         } else {
           stmt.bindString(3, value.getNote());
         }
+      }
+    };
+    this.__deletionAdapterOfNote = new EntityDeletionOrUpdateAdapter<Note>(__db) {
+      @Override
+      public String createQuery() {
+        return "DELETE FROM `Note` WHERE `id` = ?";
+      }
+
+      @Override
+      public void bind(SupportSQLiteStatement stmt, Note value) {
+        stmt.bindLong(1, value.getId());
       }
     };
     this.__updateAdapterOfNote = new EntityDeletionOrUpdateAdapter<Note>(__db) {
@@ -100,6 +113,23 @@ public final class NoteDao_Impl implements NoteDao {
         __db.beginTransaction();
         try {
           __insertionAdapterOfNote.insert(note);
+          __db.setTransactionSuccessful();
+          return Unit.INSTANCE;
+        } finally {
+          __db.endTransaction();
+        }
+      }
+    }, p1);
+  }
+
+  @Override
+  public Object deleteNote(final Note note, final Continuation<? super Unit> p1) {
+    return CoroutinesRoom.execute(__db, true, new Callable<Unit>() {
+      @Override
+      public Unit call() throws Exception {
+        __db.beginTransaction();
+        try {
+          __deletionAdapterOfNote.handle(note);
           __db.setTransactionSuccessful();
           return Unit.INSTANCE;
         } finally {
