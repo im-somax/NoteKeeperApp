@@ -16,7 +16,7 @@ abstract class BaseFragment : Fragment(), CoroutineScope{
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        job
+        job = Job()
     }
 
     override fun onDestroy() {
