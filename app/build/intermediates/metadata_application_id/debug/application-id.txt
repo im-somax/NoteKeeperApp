@@ -1,1 +1,1 @@
-com.somax.todolistmanager
+com.somax.mynotes
