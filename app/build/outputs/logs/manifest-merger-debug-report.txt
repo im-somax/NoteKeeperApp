@@ -1,13 +1,14 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:2:1-21:12
 MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0-beta01] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\3bc1b696eca9e72b2eea94cd5389b293\navigation-ui-ktx-2.3.0-beta01\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-ui:2.3.0-beta01] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\d5f645de95a21bef351eac104d2f78a8\navigation-ui-2.3.0-beta01\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\7781cabb2fad4ce47d9bf4a6c1c89738\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\2b9d4a009c442a4fa40e3729e366e266\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\02b3a1d84bebb6b518bd62d87b714377\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0-beta01] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\b949ea6c30665b649dc97d31051cc37a\navigation-fragment-ktx-2.3.0-beta01\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\3d104b1aa1ca3e06d6bed437e1cfb86e\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0-beta01] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\46af5d86736a3cde0432c4cc22bb69fc\navigation-runtime-ktx-2.3.0-beta01\AndroidManifest.xml:17:1-24:12
@@ -20,8 +21,6 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Somax\.g
 MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\c45fa550b40c64a7ab691f95d6de9da0\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9ee56bdf730b0eb082c01778a2d8860e\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\6cfa433918f0ba66341a19613b96b4c2\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0-rc01] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\c11936253b36fdb42b863fc4a6c6607f\recyclerview-selection-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\02b3a1d84bebb6b518bd62d87b714377\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\d2401bb2ef8d634df3b366e3a0ea9fa7\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\df61ed43d0736a48398eef9d25a1c211\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\ad7addb60a9fe8ee6f0bb5a30ac7287b\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -60,25 +59,25 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Somax\.gradle\
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\c138ab835c18e2b503e3176e9065bbda\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\0592952f2b1ded35994324c3ce8bc7c8\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\3e8bc75f18c032b0931bf9be17062cb2\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:3:5-40
-		INJECTED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:5:5-19:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\7781cabb2fad4ce47d9bf4a6c1c89738\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\7781cabb2fad4ce47d9bf4a6c1c89738\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\5c0c3134e75d7818675d636de09ca257\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
@@ -92,35 +91,35 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\So
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.0-rc01] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\128f3c483af2ce181998d0aa6458c9ea\core-1.3.0-rc01\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:9:9-50
+		ADDED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:9:9-50
 	android:icon
-		ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:7:9-39
+		ADDED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:7:9-39
 	android:allowBackup
-		ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.somax.todolistmanager.screens.MainActivity
-ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:12:19-55
+		ADDED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:12:19-55
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml
 MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0-beta01] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\3bc1b696eca9e72b2eea94cd5389b293\navigation-ui-ktx-2.3.0-beta01\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0-beta01] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\3bc1b696eca9e72b2eea94cd5389b293\navigation-ui-ktx-2.3.0-beta01\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui:2.3.0-beta01] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\d5f645de95a21bef351eac104d2f78a8\navigation-ui-2.3.0-beta01\AndroidManifest.xml:20:5-22:41
@@ -129,6 +128,8 @@ MERGED from [com.google.android.material:material:1.0.0] C:\Users\Somax\.gradle\
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\7781cabb2fad4ce47d9bf4a6c1c89738\material-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\2b9d4a009c442a4fa40e3729e366e266\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\2b9d4a009c442a4fa40e3729e366e266\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\02b3a1d84bebb6b518bd62d87b714377\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\02b3a1d84bebb6b518bd62d87b714377\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0-beta01] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\b949ea6c30665b649dc97d31051cc37a\navigation-fragment-ktx-2.3.0-beta01\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0-beta01] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\b949ea6c30665b649dc97d31051cc37a\navigation-fragment-ktx-2.3.0-beta01\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\3d104b1aa1ca3e06d6bed437e1cfb86e\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
@@ -153,10 +154,6 @@ MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Somax\.gradle\caches\tra
 MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9ee56bdf730b0eb082c01778a2d8860e\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\6cfa433918f0ba66341a19613b96b4c2\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\6cfa433918f0ba66341a19613b96b4c2\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0-rc01] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\c11936253b36fdb42b863fc4a6c6607f\recyclerview-selection-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0-rc01] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\c11936253b36fdb42b863fc4a6c6607f\recyclerview-selection-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\02b3a1d84bebb6b518bd62d87b714377\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\02b3a1d84bebb6b518bd62d87b714377\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\d2401bb2ef8d634df3b366e3a0ea9fa7\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\d2401bb2ef8d634df3b366e3a0ea9fa7\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\df61ed43d0736a48398eef9d25a1c211\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
@@ -233,16 +230,16 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Somax\.g
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\0592952f2b1ded35994324c3ce8bc7c8\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\3e8bc75f18c032b0931bf9be17062cb2\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\3e8bc75f18c032b0931bf9be17062cb2\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml
 service#androidx.room.MultiInstanceInvalidationService
 ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9ee56bdf730b0eb082c01778a2d8860e\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
 	android:exported

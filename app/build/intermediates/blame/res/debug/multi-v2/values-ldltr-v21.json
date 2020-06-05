@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Somax\\Downloads\\Kotlin_1\\Udacity_Developing_Android_Apps_with_Kotlin\\andfun_kotlin\\apps\\ToDoListManager\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+            "outputFile": "C:\\Users\\Somax\\Documents\\GitHub\\NoteKeeperApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Somax\\.gradle\\caches\\transforms-2\\files-2.1\\2b9d4a009c442a4fa40e3729e366e266\\appcompat-1.1.0\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
