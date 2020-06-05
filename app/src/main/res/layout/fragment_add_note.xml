@@ -8,35 +8,30 @@
     <EditText
         android:id="@+id/editText"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
-        android:layout_marginTop="8dp"
         android:hint="Title"
-        android:layout_marginLeft="8dp"
-        android:layout_marginRight="8dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:ems="10"
         android:inputType="text" />
+
 
     <EditText
         android:id="@+id/editText2"
         android:layout_below="@+id/editText"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginBottom="8dp"
-        android:layout_marginLeft="8dp"
-        android:layout_marginRight="8dp"
-        android:ems="10"
         android:gravity="top"
         android:hint="Note"
         android:inputType="textMultiLine"
-        android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        />
+
+
+
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/button_save"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginRight="8dp"
-        android:layout_marginBottom="8dp"
         android:clickable="true"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"

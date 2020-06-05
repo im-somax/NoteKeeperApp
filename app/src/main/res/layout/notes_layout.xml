@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     xmlns:tools="http://schemas.android.com/tools">
 
     <androidx.cardview.widget.CardView
-        android:layout_margin="8dp"
+        android:layout_margin="4dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
 
@@ -15,13 +17,11 @@
             android:layout_height="wrap_content">
 
             <TextView
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Headline"
                 android:id="@+id/text_view_title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="10dp"
-                android:textAppearance="@style/Base.CardView"
-                android:textSize="14sp"
-                android:textStyle="bold"
                 tools:text="My First Note" />
 
             <TextView
@@ -29,10 +29,11 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/text_view_title"
-                android:textAppearance="@style/Base.CardView"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
                 android:textSize="12sp"
                 tools:text="Note Description" />
         </RelativeLayout>
+
     </androidx.cardview.widget.CardView>
 
-</androidx.appcompat.widget.LinearLayoutCompat>
+</LinearLayout>

@@ -20,8 +20,9 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Somax\.g
 MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\c45fa550b40c64a7ab691f95d6de9da0\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9ee56bdf730b0eb082c01778a2d8860e\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\6cfa433918f0ba66341a19613b96b4c2\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0-rc01] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\c11936253b36fdb42b863fc4a6c6607f\recyclerview-selection-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\02b3a1d84bebb6b518bd62d87b714377\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\d2401bb2ef8d634df3b366e3a0ea9fa7\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\4c176279087a95bc7a0337d222eda577\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\df61ed43d0736a48398eef9d25a1c211\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\ad7addb60a9fe8ee6f0bb5a30ac7287b\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\4f6e8b0a17cc9087c72012b7e352f727\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -29,6 +30,7 @@ MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Somax\.gradle\cach
 MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\26c9b9baebda4a731655f5fc63989a03\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.media:media:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\ec4258d194df89bc706a6e412aa52338\media-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\67a06617d8a64224b1c7bd40f3a5c77b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\bbf24529bee21c901d47ef32353e13cb\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\45dc45987a3bdb7a45e60a4f4ddc3025\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\c31767499abd30514a0eeb93a5bc2850\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-fragment:2.3.0-beta01] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\0f1e2ce280c3c706ff166be2fa380b27\navigation-fragment-2.3.0-beta01\AndroidManifest.xml:17:1-24:12
@@ -54,7 +56,6 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\8e747267f34987362119839d07c0d87e\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\19a1bef9e4cf39e45cfefce87ad7a46d\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9426cdef31166957fa953767fcd3fd70\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\bbf24529bee21c901d47ef32353e13cb\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\1aedffa3850ded0bf63102bfafdac59a\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\c138ab835c18e2b503e3176e9065bbda\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\0592952f2b1ded35994324c3ce8bc7c8\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
@@ -95,9 +96,9 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\So
 	android:label
 		ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:9:9-50
 	android:icon
-		ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:7:9-39
 	android:allowBackup
 		ADDED from C:\Users\Somax\Downloads\Kotlin_1\Udacity_Developing_Android_Apps_with_Kotlin\andfun_kotlin\apps\ToDoListManager\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
@@ -152,10 +153,12 @@ MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Somax\.gradle\caches\tra
 MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9ee56bdf730b0eb082c01778a2d8860e\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\6cfa433918f0ba66341a19613b96b4c2\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\6cfa433918f0ba66341a19613b96b4c2\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0-rc01] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\c11936253b36fdb42b863fc4a6c6607f\recyclerview-selection-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0-rc01] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\c11936253b36fdb42b863fc4a6c6607f\recyclerview-selection-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\02b3a1d84bebb6b518bd62d87b714377\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\02b3a1d84bebb6b518bd62d87b714377\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\d2401bb2ef8d634df3b366e3a0ea9fa7\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\d2401bb2ef8d634df3b366e3a0ea9fa7\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\4c176279087a95bc7a0337d222eda577\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\4c176279087a95bc7a0337d222eda577\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\df61ed43d0736a48398eef9d25a1c211\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\df61ed43d0736a48398eef9d25a1c211\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\ad7addb60a9fe8ee6f0bb5a30ac7287b\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
@@ -170,6 +173,8 @@ MERGED from [androidx.media:media:1.0.0] C:\Users\Somax\.gradle\caches\transform
 MERGED from [androidx.media:media:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\ec4258d194df89bc706a6e412aa52338\media-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\67a06617d8a64224b1c7bd40f3a5c77b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\67a06617d8a64224b1c7bd40f3a5c77b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\bbf24529bee21c901d47ef32353e13cb\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\bbf24529bee21c901d47ef32353e13cb\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\45dc45987a3bdb7a45e60a4f4ddc3025\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\45dc45987a3bdb7a45e60a4f4ddc3025\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\c31767499abd30514a0eeb93a5bc2850\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -220,8 +225,6 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Somax\.gradle\ca
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\19a1bef9e4cf39e45cfefce87ad7a46d\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9426cdef31166957fa953767fcd3fd70\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9426cdef31166957fa953767fcd3fd70\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\bbf24529bee21c901d47ef32353e13cb\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\bbf24529bee21c901d47ef32353e13cb\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\1aedffa3850ded0bf63102bfafdac59a\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\1aedffa3850ded0bf63102bfafdac59a\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\c138ab835c18e2b503e3176e9065bbda\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44

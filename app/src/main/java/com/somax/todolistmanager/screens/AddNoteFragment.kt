@@ -42,13 +42,13 @@ class AddNoteFragment : BaseFragment() {
             val noteBody = editText2.text.toString().trim()
 
             if (noteTitle.isEmpty()) {
-                editText.error = "title required"
+                editText.error = "Title required"
                 editText.requestFocus()
                 return@setOnClickListener
             }
 
             if (noteBody.isEmpty()) {
-                editText2.error = "note required"
+                editText2.error = "Note required"
                 editText2.requestFocus()
                 return@setOnClickListener
             }
