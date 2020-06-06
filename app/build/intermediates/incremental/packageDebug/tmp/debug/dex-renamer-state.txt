@@ -1,4 +1,4 @@
-#Sat Jun 06 03:05:26 IST 2020
+#Sat Jun 06 14:08:49 IST 2020
 base.0=C\:\\Users\\Somax\\Documents\\GitHub\\NoteKeeperApp\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
