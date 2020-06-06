@@ -696,6 +696,7 @@ color error_color_material_dark
 color error_color_material_light
 color foreground_material_dark
 color foreground_material_light
+color greyColor
 color highlighted_text_material_dark
 color highlighted_text_material_light
 color ic_icon_background
@@ -977,6 +978,7 @@ dimen subtitle_corner_radius
 dimen subtitle_outline_width
 dimen subtitle_shadow_offset
 dimen subtitle_shadow_radius
+dimen textSize
 dimen tooltip_corner_radius
 dimen tooltip_horizontal_padding
 dimen tooltip_margin
@@ -1364,6 +1366,7 @@ id transition_layout_save
 id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
+id tvEmpty
 id unchecked
 id uniform
 id unlabeled
@@ -1501,6 +1504,7 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string add_notes
 string app_name
 string appbar_scrolling_view_behavior
 string bottom_sheet_behavior

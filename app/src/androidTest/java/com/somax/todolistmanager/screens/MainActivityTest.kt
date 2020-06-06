@@ -29,6 +29,9 @@ class MainActivityTest {
 
     @Test
     fun mainActivityTest() {
+
+        Thread.sleep(1000)
+
         val imageButton = onView(
             allOf(
                 withId(R.id.button_add),
@@ -43,6 +46,8 @@ class MainActivityTest {
             )
         )
         imageButton.check(matches(isDisplayed()))
+
+        Thread.sleep(1000)
 
         val floatingActionButton = onView(
             allOf(
@@ -59,50 +64,10 @@ class MainActivityTest {
         )
         floatingActionButton.perform(click())
 
-        val editText = onView(
-            allOf(
-                withId(R.id.editText), withText("Title"),
-                childAtPosition(
-                    childAtPosition(
-                        withId(R.id.fragment),
-                        0
-                    ),
-                    0
-                ),
-                isDisplayed()
-            )
-        )
-        editText.check(matches(withText("Title")))
+        Thread.sleep(2000)
 
-        val editText2 = onView(
-            allOf(
-                withId(R.id.editText2), withText("Note"),
-                childAtPosition(
-                    childAtPosition(
-                        withId(R.id.fragment),
-                        0
-                    ),
-                    1
-                ),
-                isDisplayed()
-            )
-        )
-        editText2.check(matches(withText("Note")))
-
-        val editText3 = onView(
-            allOf(
-                withId(R.id.editText2), withText("Note"),
-                childAtPosition(
-                    childAtPosition(
-                        withId(R.id.fragment),
-                        0
-                    ),
-                    1
-                ),
-                isDisplayed()
-            )
-        )
-        editText3.check(matches(withText("Note")))
+        onView(withId(R.id.editText)).check(matches(isDisplayed()))
+        onView(withId(R.id.editText2)).check(matches(isDisplayed()))
 
         val appCompatEditText = onView(
             allOf(
@@ -117,11 +82,11 @@ class MainActivityTest {
                 isDisplayed()
             )
         )
-        appCompatEditText.perform(replaceText("Title"), closeSoftKeyboard())
+        appCompatEditText.perform(replaceText("Study C++"), closeSoftKeyboard())
 
         val appCompatEditText2 = onView(
             allOf(
-                withId(R.id.editText), withText("Title"),
+                withId(R.id.editText), withText("Study C++"),
                 childAtPosition(
                     childAtPosition(
                         withId(R.id.fragment),
@@ -133,6 +98,8 @@ class MainActivityTest {
             )
         )
         appCompatEditText2.perform(pressImeActionButton())
+
+        Thread.sleep(2000)
 
         val appCompatEditText3 = onView(
             allOf(
@@ -147,7 +114,9 @@ class MainActivityTest {
                 isDisplayed()
             )
         )
-        appCompatEditText3.perform(replaceText("Note"), closeSoftKeyboard())
+        appCompatEditText3.perform(replaceText("Start with basics"), closeSoftKeyboard())
+
+        Thread.sleep(2000)
 
         val floatingActionButton2 = onView(
             allOf(
