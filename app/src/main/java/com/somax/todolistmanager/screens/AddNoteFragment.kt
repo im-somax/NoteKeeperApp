@@ -32,24 +32,24 @@ class AddNoteFragment : BaseFragment() {
 
         arguments?.let {
             note = AddNoteFragmentArgs.fromBundle(it).note
-            editText.setText(note?.title)
-            editText2.setText(note?.note)
+            et_title.setText(note?.title)
+            et_note.setText(note?.note)
         }
 
         button_save.setOnClickListener { view ->
 
-            val noteTitle = editText.text.toString().trim()
-            val noteBody = editText2.text.toString().trim()
+            val noteTitle = et_title.text.toString().trim()
+            val noteBody = et_note.text.toString().trim()
 
             if (noteTitle.isEmpty()) {
-                editText.error = "Title required"
-                editText.requestFocus()
+                et_title.error = "Title required"
+                et_title.requestFocus()
                 return@setOnClickListener
             }
 
             if (noteBody.isEmpty()) {
-                editText2.error = "Note required"
-                editText2.requestFocus()
+                et_note.error = "Note required"
+                et_note.requestFocus()
                 return@setOnClickListener
             }
 

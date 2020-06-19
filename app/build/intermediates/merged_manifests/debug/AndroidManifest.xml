@@ -18,13 +18,22 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.somax.todolistmanager.screens.MainActivity" >
+        <activity
+            android:name="com.somax.todolistmanager.screens.SplashActivity"
+            android:noHistory="true"
+            android:theme="@style/SplashTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.somax.todolistmanager.screens.MainActivity" >
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
 
         <service
             android:name="androidx.room.MultiInstanceInvalidationService"

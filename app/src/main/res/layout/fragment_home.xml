@@ -16,20 +16,23 @@
         android:id="@+id/button_add"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:clickable="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
         android:layout_marginRight="8dp"
         android:layout_marginBottom="8dp"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
-        android:src="@drawable/ic_add" />
+        android:clickable="true"
+        android:src="@drawable/ic_add"
+        app:backgroundTint="#B830F0" />
+
     <TextView
         android:id="@+id/tvEmpty"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/add_notes"
         android:layout_centerInParent="true"
-        android:textSize="@dimen/textSize"
+        android:fontFamily="@font/raleway"
+        android:text="@string/add_notes"
         android:textColor="@color/greyColor"
-        android:visibility="visible"/>
+        android:textSize="@dimen/textSize"
+        android:visibility="visible" />
 
 </RelativeLayout>

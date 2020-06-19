@@ -11,7 +11,7 @@
 9-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:5:5-19:19
+11-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:5:5-27:19
 12        android:allowBackup="true"
 12-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -28,29 +28,45 @@
 19        android:testOnly="true"
 20        android:theme="@style/AppTheme" >
 20-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:11:9-40
-21        <activity android:name="com.somax.todolistmanager.screens.MainActivity" >
-21-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:12:9-18:20
-21-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:12:19-55
-22            <intent-filter>
-22-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:13:13-17:29
-23                <action android:name="android.intent.action.MAIN" />
-23-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:14:17-69
-23-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:14:25-66
-24
-25                <category android:name="android.intent.category.LAUNCHER" />
-25-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:16:17-77
-25-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:16:27-74
-26            </intent-filter>
-27        </activity>
-28
-29        <service
-29-->[androidx.room:room-runtime:2.2.5] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9ee56bdf730b0eb082c01778a2d8860e\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
-30            android:name="androidx.room.MultiInstanceInvalidationService"
-30-->[androidx.room:room-runtime:2.2.5] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9ee56bdf730b0eb082c01778a2d8860e\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
-31            android:directBootAware="true"
-31-->[androidx.room:room-runtime:2.2.5] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9ee56bdf730b0eb082c01778a2d8860e\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
-32            android:exported="false" />
-32-->[androidx.room:room-runtime:2.2.5] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9ee56bdf730b0eb082c01778a2d8860e\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
-33    </application>
-34
-35</manifest>
+21        <activity
+21-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:12:9-20:20
+22            android:name="com.somax.todolistmanager.screens.SplashActivity"
+22-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:12:19-57
+23            android:noHistory="true"
+23-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:14:13-37
+24            android:theme="@style/SplashTheme" >
+24-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:13:13-47
+25            <intent-filter>
+25-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:15:13-19:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:16:17-69
+26-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:16:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:18:17-77
+28-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:18:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity android:name="com.somax.todolistmanager.screens.MainActivity" >
+31-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:21:9-22:16
+31-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:21:19-55
+32        </activity>
+33
+34        <meta-data
+34-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:24:9-26:57
+35            android:name="preloaded_fonts"
+35-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:25:13-43
+36            android:resource="@array/preloaded_fonts" />
+36-->C:\Users\Somax\Documents\GitHub\NoteKeeperApp\app\src\main\AndroidManifest.xml:26:13-54
+37
+38        <service
+38-->[androidx.room:room-runtime:2.2.5] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9ee56bdf730b0eb082c01778a2d8860e\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+39            android:name="androidx.room.MultiInstanceInvalidationService"
+39-->[androidx.room:room-runtime:2.2.5] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9ee56bdf730b0eb082c01778a2d8860e\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+40            android:directBootAware="true"
+40-->[androidx.room:room-runtime:2.2.5] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9ee56bdf730b0eb082c01778a2d8860e\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+41            android:exported="false" />
+41-->[androidx.room:room-runtime:2.2.5] C:\Users\Somax\.gradle\caches\transforms-2\files-2.1\9ee56bdf730b0eb082c01778a2d8860e\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+42    </application>
+43
+44</manifest>

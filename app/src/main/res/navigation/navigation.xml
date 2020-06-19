@@ -38,4 +38,9 @@
             app:nullable="true"
             android:defaultValue="@null" />
     </fragment>
+    <activity
+        android:id="@+id/splashActivity"
+        android:name="com.somax.todolistmanager.screens.SplashActivity"
+        android:label="activity_splash"
+        tools:layout="@layout/activity_splash"/>
 </navigation>

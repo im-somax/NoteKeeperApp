@@ -2,9 +2,7 @@ package com.somax.todolistmanager.screens
 
 import android.content.Context
 import android.os.Bundle
-import android.view.LayoutInflater
-import android.view.View
-import android.view.ViewGroup
+import android.view.*
 import android.view.inputmethod.InputMethodManager
 import androidx.navigation.Navigation
 import androidx.recyclerview.widget.StaggeredGridLayoutManager
@@ -51,7 +49,6 @@ class HomeFragment : BaseFragment() {
 
 
         button_add.setOnClickListener{
-
             val action = HomeFragmentDirections.actionAddNote()
             Navigation.findNavController(it).navigate(action)
         }

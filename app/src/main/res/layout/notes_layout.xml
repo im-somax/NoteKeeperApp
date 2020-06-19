@@ -15,13 +15,14 @@
             android:layout_height="wrap_content">
 
             <TextView
-                android:textAppearance="@style/Base.TextAppearance.AppCompat.Headline"
                 android:id="@+id/text_view_title"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:maxLines="3"
-                android:ellipsize="end"
                 android:layout_marginBottom="10dp"
+                android:ellipsize="end"
+                android:fontFamily="@font/raleway"
+                android:maxLines="3"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Headline"
                 tools:text="My First Note" />
 
             <TextView
@@ -29,9 +30,10 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/text_view_title"
-                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
-                android:maxLines="4"
                 android:ellipsize="end"
+                android:fontFamily="@font/raleway"
+                android:maxLines="4"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
                 tools:text="Note Description" />
         </RelativeLayout>
 

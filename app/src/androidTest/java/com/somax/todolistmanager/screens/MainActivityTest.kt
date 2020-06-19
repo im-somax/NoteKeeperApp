@@ -66,12 +66,12 @@ class MainActivityTest {
 
         Thread.sleep(2000)
 
-        onView(withId(R.id.editText)).check(matches(isDisplayed()))
-        onView(withId(R.id.editText2)).check(matches(isDisplayed()))
+        onView(withId(R.id.et_title)).check(matches(isDisplayed()))
+        onView(withId(R.id.et_note)).check(matches(isDisplayed()))
 
         val appCompatEditText = onView(
             allOf(
-                withId(R.id.editText),
+                withId(R.id.et_title),
                 childAtPosition(
                     childAtPosition(
                         withId(R.id.fragment),
@@ -86,7 +86,7 @@ class MainActivityTest {
 
         val appCompatEditText2 = onView(
             allOf(
-                withId(R.id.editText), withText("Study C++"),
+                withId(R.id.et_title), withText("Study C++"),
                 childAtPosition(
                     childAtPosition(
                         withId(R.id.fragment),
@@ -103,7 +103,7 @@ class MainActivityTest {
 
         val appCompatEditText3 = onView(
             allOf(
-                withId(R.id.editText2),
+                withId(R.id.et_note),
                 childAtPosition(
                     childAtPosition(
                         withId(R.id.fragment),

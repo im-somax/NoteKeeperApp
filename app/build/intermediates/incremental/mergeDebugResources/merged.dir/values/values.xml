@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <array name="com_google_android_gms_fonts_certs">
+        <item>@array/com_google_android_gms_fonts_certs_dev</item>
+        <item>@array/com_google_android_gms_fonts_certs_prod</item>
+    </array>
+    <string-array name="com_google_android_gms_fonts_certs_dev">
+        <item>
+            MIIEqDCCA5CgAwIBAgIJANWFuGx90071MA0GCSqGSIb3DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTAeFw0wODA0MTUyMzM2NTZaFw0zNTA5MDEyMzM2NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBANbOLggKv+IxTdGNs8/TGFy0PTP6DHThvbbR24kT9ixcOd9W+EaBPWW+wPPKQmsHxajtWjmQwWfna8mZuSeJS48LIgAZlKkpFeVyxW0qMBujb8X8ETrWy550NaFtI6t9+u7hZeTfHwqNvacKhp1RbE6dBRGWynwMVX8XW8N1+UjFaq6GCJukT4qmpN2afb8sCjUigq0GuMwYXrFVee74bQgLHWGJwPmvmLHC69EH6kWr22ijx4OKXlSIx2xT1AsSHee70w5iDBiK4aph27yH3TxkXy9V89TDdexAcKk/cVHYNnDBapcavl7y0RiQ4biu8ymM8Ga/nmzhRKya6G0cGw8CAQOjgfwwgfkwHQYDVR0OBBYEFI0cxb6VTEM8YYY6FbBMvAPyT+CyMIHJBgNVHSMEgcEwgb6AFI0cxb6VTEM8YYY6FbBMvAPyT+CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbYIJANWFuGx90071MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEEBQADggEBABnTDPEF+3iSP0wNfdIjIz1AlnrPzgAIHVvXxunW7SBrDhEglQZBbKJEk5kT0mtKoOD1JMrSu1xuTKEBahWRbqHsXclaXjoBADb0kkjVEJu/Lh5hgYZnOjvlba8Ld7HCKePCVePoTJBdI4fvugnL8TsgK05aIskyY0hKI9L8KfqfGTl1lzOv2KoWD0KWwtAWPoGChZxmQ+nBli+gwYMzM1vAkP+aayLe0a1EQimlOalO762r0GXO0ks+UeXde2Z4e+8S/pf7pITEI/tP+MxJTALw9QUWEv9lKTk+jkbqxbsh8nfBUapfKqYn0eidpwq2AzVp3juYl7//fKnaPhJD9gs=
+        </item>
+    </string-array>
+    <string-array name="com_google_android_gms_fonts_certs_prod">
+        <item>
+            MIIEQzCCAyugAwIBAgIJAMLgh0ZkSjCNMA0GCSqGSIb3DQEBBAUAMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDAeFw0wODA4MjEyMzEzMzRaFw0zNjAxMDcyMzEzMzRaMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBAKtWLgDYO6IIrgqWbxJOKdoR8qtW0I9Y4sypEwPpt1TTcvZApxsdyxMJZ2JORland2qSGT2y5b+3JKkedxiLDmpHpDsz2WCbdxgxRczfey5YZnTJ4VZbH0xqWVW/8lGmPav5xVwnIiJS6HXk+BVKZF+JcWjAsb/GEuq/eFdpuzSqeYTcfi6idkyugwfYwXFU1+5fZKUaRKYCwkkFQVfcAs1fXA5V+++FGfvjJ/CxURaSxaBvGdGDhfXE28LWuT9ozCl5xw4Yq5OGazvV24mZVSoOO0yZ31j7kYvtwYK6NeADwbSxDdJEqO4k//0zOHKrUiGYXtqw/A0LFFtqoZKFjnkCAQOjgdkwgdYwHQYDVR0OBBYEFMd9jMIhF1Ylmn/Tgt9r45jk14alMIGmBgNVHSMEgZ4wgZuAFMd9jMIhF1Ylmn/Tgt9r45jk14aloXikdjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLR29vZ2xlIEluYy4xEDAOBgNVBAsTB0FuZHJvaWQxEDAOBgNVBAMTB0FuZHJvaWSCCQDC4IdGZEowjTAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4IBAQBt0lLO74UwLDYKqs6Tm8/yzKkEu116FmH4rkaymUIE0P9KaMftGlMexFlaYjzmB2OxZyl6euNXEsQH8gjwyxCUKRJNexBiGcCEyj6z+a1fuHHvkiaai+KL8W1EyNmgjmyy8AW7P+LLlkR+ho5zEHatRbM/YAnqGcFh5iZBqpknHf1SKMXFh4dd239FJ1jWYfbMDMy3NS5CTMQ2XFI1MvcyUTdZPErjQfTbQe3aDQsQcafEQPD+nqActifKZ0Np0IS9L9kR/wbNvyz6ENwPiTrjV2KRkEjH78ZMcUQXg0L3BYHJ3lc69Vs5Ddf9uUGGMYldX3WfMBEmh/9iFBDAaTCK
+        </item>
+    </string-array>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/raleway</item>
+    </array>
     <attr format="boolean" name="barrierAllowsGoneWidgets"/>
     <attr format="enum" name="barrierDirection">
         <enum name="left" value="0"/>
@@ -142,8 +159,24 @@
         <flag name="dimensions" value="8"/>
         <flag name="groups" value="32"/>
     </attr>
+    <attr format="reference" name="lottieAnimationViewStyle"/>
     <attr format="reference" name="materialButtonStyle"/>
     <attr format="reference" name="materialCardViewStyle"/>
+    <attr format="reference" name="mediaRouteAudioTrackDrawable"/>
+    <attr format="reference" name="mediaRouteBodyTextAppearance"/>
+    <attr format="reference" name="mediaRouteButtonStyle"/>
+    <attr format="reference" name="mediaRouteCloseDrawable"/>
+    <attr format="reference" name="mediaRouteControlPanelThemeOverlay"/>
+    <attr format="reference" name="mediaRouteDefaultIconDrawable"/>
+    <attr format="color" name="mediaRouteDividerColor"/>
+    <attr format="reference" name="mediaRouteHeaderTextAppearance"/>
+    <attr format="reference" name="mediaRoutePauseDrawable"/>
+    <attr format="reference" name="mediaRoutePlayDrawable"/>
+    <attr format="reference" name="mediaRouteSpeakerGroupIconDrawable"/>
+    <attr format="reference" name="mediaRouteSpeakerIconDrawable"/>
+    <attr format="reference" name="mediaRouteStopDrawable"/>
+    <attr format="reference" name="mediaRouteTheme"/>
+    <attr format="reference" name="mediaRouteTvIconDrawable"/>
     <attr format="reference" name="navigationViewStyle"/>
     <attr format="reference" name="recyclerViewStyle"/>
     <attr format="color" name="rippleColor"/>
@@ -170,6 +203,7 @@
     <bool name="abc_action_bar_embed_tabs">true</bool>
     <bool name="abc_allow_stacked_button_bar">false</bool>
     <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="is_tablet">false</bool>
     <bool name="mtrl_btn_textappearance_all_caps">true</bool>
     <color name="abc_input_method_navigation_guard">@android:color/black</color>
     <color name="abc_search_url_text_normal">#7fa87f</color>
@@ -195,7 +229,7 @@
     <color name="cardview_light_background">#FFFFFFFF</color>
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="colorAccent">#C038F8</color>
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="design_bottom_navigation_shadow_color">#14000000</color>
@@ -220,7 +254,7 @@
     <color name="greyColor">#A2A2A2</color>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
-    <color name="ic_icon_background">#031263</color>
+    <color name="ic_icon_background">#3808A0</color>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
     <color name="material_blue_grey_950">#ff21272b</color>
@@ -233,6 +267,23 @@
     <color name="material_grey_800">#ff424242</color>
     <color name="material_grey_850">#ff303030</color>
     <color name="material_grey_900">#ff212121</color>
+    <color name="mr_cast_meta_black_scrim">#99000000</color>
+    <color name="mr_cast_meta_default_background">#25272B</color>
+    <color name="mr_cast_meta_default_text_color">#FFFFFF</color>
+    <color name="mr_cast_progressbar_background_dark">#5F6368</color>
+    <color name="mr_cast_progressbar_background_light">#CBCCCD</color>
+    <color name="mr_cast_progressbar_progress_and_thumb_dark">#5195EA</color>
+    <color name="mr_cast_progressbar_progress_and_thumb_light">#4285F4</color>
+    <color name="mr_cast_route_divider_dark">#803C4043</color>
+    <color name="mr_cast_route_divider_light">#1425272B</color>
+    <color name="mr_dynamic_dialog_background_dark">#000000</color>
+    <color name="mr_dynamic_dialog_background_light">#FFFFFF</color>
+    <color name="mr_dynamic_dialog_header_text_color_dark">#BDC1C6</color>
+    <color name="mr_dynamic_dialog_header_text_color_light">#80868B</color>
+    <color name="mr_dynamic_dialog_icon_dark">#F8F9FA</color>
+    <color name="mr_dynamic_dialog_icon_light">#202124</color>
+    <color name="mr_dynamic_dialog_route_text_color_dark">#FFFFFF</color>
+    <color name="mr_dynamic_dialog_route_text_color_light">#25272B</color>
     <color name="mtrl_btn_bg_color_disabled">#1F000000</color>
     <color name="mtrl_btn_text_color_disabled">#61000000</color>
     <color name="mtrl_btn_transparent_bg_color">#00ffffff</color>
@@ -353,6 +404,7 @@
     <dimen name="compat_notification_large_icon_max_height">320dp</dimen>
     <dimen name="compat_notification_large_icon_max_width">320dp</dimen>
     <dimen name="def_drawer_elevation">10dp</dimen>
+    <dimen name="default_gap">8dip</dimen>
     <dimen name="design_appbar_elevation">4dp</dimen>
     <dimen name="design_bottom_navigation_active_item_max_width">168dp</dimen>
     <dimen name="design_bottom_navigation_active_item_min_width">96dp</dimen>
@@ -412,6 +464,21 @@
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
+    <dimen name="mr_cast_group_volume_seekbar_height">4dp</dimen>
+    <dimen name="mr_cast_meta_art_size">36dp</dimen>
+    <dimen name="mr_cast_meta_subtitle_text_size">13sp</dimen>
+    <dimen name="mr_cast_route_volume_seekbar_height">2dp</dimen>
+    <dimen name="mr_cast_seekbar_thumb_size">8dp</dimen>
+    <dimen name="mr_controller_volume_group_list_item_height">68dp</dimen>
+    <dimen name="mr_controller_volume_group_list_item_icon_size">24dp</dimen>
+    <dimen name="mr_controller_volume_group_list_max_height">288dp</dimen>
+    <dimen name="mr_controller_volume_group_list_padding_top">16dp</dimen>
+    <dimen name="mr_dialog_fixed_width_major">320dp</dimen>
+    <dimen name="mr_dialog_fixed_width_minor">320dp</dimen>
+    <dimen name="mr_dynamic_dialog_header_text_size">11sp</dimen>
+    <dimen name="mr_dynamic_dialog_route_text_size">12sp</dimen>
+    <dimen name="mr_dynamic_dialog_row_height">48dp</dimen>
+    <dimen name="mr_dynamic_volume_group_list_item_height">80dp</dimen>
     <dimen name="mtrl_bottomappbar_fabOffsetEndMode">60dp</dimen>
     <dimen name="mtrl_bottomappbar_fab_cradle_margin">5dp</dimen>
     <dimen name="mtrl_bottomappbar_fab_cradle_rounded_corner_radius">8dp</dimen>
@@ -534,6 +601,7 @@
     <item name="item_touch_helper_previous_elevation" type="id"/>
     <item name="line1" type="id"/>
     <item name="line3" type="id"/>
+    <item name="lottie_layer_name" type="id"/>
     <item name="mtrl_child_content_container" type="id"/>
     <item name="mtrl_internal_children_alpha_tag" type="id"/>
     <item name="nav_controller_view_tag" type="id"/>
@@ -578,6 +646,11 @@
     <integer name="design_snackbar_text_max_lines">2</integer>
     <integer name="design_tab_indicator_anim_duration_ms">300</integer>
     <integer name="hide_password_duration">320</integer>
+    <integer name="mr_cast_volume_slider_layout_animation_duration_ms">400</integer>
+    <integer name="mr_controller_volume_group_list_animation_duration_ms">400</integer>
+    <integer name="mr_controller_volume_group_list_fade_in_duration_ms">400</integer>
+    <integer name="mr_controller_volume_group_list_fade_out_duration_ms">200</integer>
+    <integer name="mr_update_routes_delay_ms">300</integer>
     <integer name="mtrl_btn_anim_delay_ms">100</integer>
     <integer name="mtrl_btn_anim_duration_ms">100</integer>
     <integer name="mtrl_chip_anim_duration">100</integer>
@@ -621,6 +694,30 @@
     <string name="fab_transformation_sheet_behavior" translatable="false">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hide_bottom_view_on_scroll_behavior" translatable="false">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="mr_button_content_description">Cast button</string>
+    <string name="mr_cast_button_connected">Cast button. Connected</string>
+    <string name="mr_cast_button_connecting">Cast button. Connecting</string>
+    <string name="mr_cast_button_disconnected">Cast button. Disconnected</string>
+    <string name="mr_cast_dialog_title_view_placeholder">No info available</string>
+    <string name="mr_chooser_searching">Finding devices</string>
+    <string name="mr_chooser_title">Cast to</string>
+    <string name="mr_controller_album_art">Album art</string>
+    <string name="mr_controller_casting_screen">Casting screen</string>
+    <string name="mr_controller_close_description">Close</string>
+    <string name="mr_controller_collapse_group">Collapse</string>
+    <string name="mr_controller_disconnect">Disconnect</string>
+    <string name="mr_controller_expand_group">Expand</string>
+    <string name="mr_controller_no_info_available">No info available</string>
+    <string name="mr_controller_no_media_selected">No media selected</string>
+    <string name="mr_controller_pause">Pause</string>
+    <string name="mr_controller_play">Play</string>
+    <string name="mr_controller_stop">Stop</string>
+    <string name="mr_controller_stop_casting">Stop casting</string>
+    <string name="mr_controller_volume_slider">Volume slider</string>
+    <string name="mr_dialog_groupable_header">Add a device</string>
+    <string name="mr_dialog_transferable_header">Play on a group</string>
+    <string name="mr_system_route_name">System</string>
+    <string name="mr_user_route_category_name">Devices</string>
     <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
     <string name="nav_app_bar_navigate_up_description">Navigate up</string>
     <string name="nav_app_bar_open_drawer_description">Open navigation drawer</string>
@@ -2295,6 +2392,8 @@
         <item name="android:paddingLeft">@dimen/abc_action_bar_overflow_padding_start_material</item>
         <item name="android:paddingRight">@dimen/abc_action_bar_overflow_padding_end_material</item>
     </style>
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
     <style name="TextAppearance.AppCompat" parent="Base.TextAppearance.AppCompat"/>
     <style name="TextAppearance.AppCompat.Body1" parent="Base.TextAppearance.AppCompat.Body1"/>
     <style name="TextAppearance.AppCompat.Body2" parent="Base.TextAppearance.AppCompat.Body2"/>
@@ -2505,6 +2604,32 @@
     <style name="TextAppearance.MaterialComponents.Tab" parent="TextAppearance.Design.Tab">
     <item name="android:textColor">@color/mtrl_tabs_icon_color_selector</item>
   </style>
+    <style name="TextAppearance.MediaRouter.Dynamic.Body" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textSize">@dimen/mr_dynamic_dialog_route_text_size</item>
+        <item name="android:textColor">@color/mr_dynamic_dialog_route_text_color_dark</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="TextAppearance.MediaRouter.Dynamic.Body.Light">
+        <item name="android:textColor">@color/mr_dynamic_dialog_route_text_color_light</item>
+    </style>
+    <style name="TextAppearance.MediaRouter.Dynamic.Header" parent="TextAppearance.AppCompat.Body2">
+        <item name="android:textSize">@dimen/mr_dynamic_dialog_header_text_size</item>
+        <item name="android:textColor">@color/mr_dynamic_dialog_header_text_color_dark</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="TextAppearance.MediaRouter.Dynamic.Header.Light">
+        <item name="android:textColor">@color/mr_dynamic_dialog_header_text_color_light</item>
+    </style>
+    <style name="TextAppearance.MediaRouter.Dynamic.Metadata.PrimaryText" parent="TextAppearance.AppCompat.Body2">
+        <item name="android:textColor">@color/mr_cast_meta_default_text_color</item>
+    </style>
+    <style name="TextAppearance.MediaRouter.Dynamic.Metadata.SecondaryText" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textSize">@dimen/mr_cast_meta_subtitle_text_size</item>
+    </style>
+    <style name="TextAppearance.MediaRouter.PrimaryText" parent="TextAppearance.AppCompat.Subhead"/>
+    <style name="TextAppearance.MediaRouter.SecondaryText" parent="TextAppearance.AppCompat.Body1"/>
+    <style name="TextAppearance.MediaRouter.Title" parent="TextAppearance.AppCompat.Title"/>
     <style name="TextAppearance.Widget.AppCompat.ExpandedMenu.Item" parent="Base.TextAppearance.Widget.AppCompat.ExpandedMenu.Item">
     </style>
     <style name="TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle">
@@ -2605,6 +2730,50 @@
     <item name="windowActionBar">false</item>
     <item name="windowNoTitle">true</item>
   </style>
+    <style name="Theme.MediaRouter" parent="ThemeOverlay.AppCompat.Dark">
+        <item name="windowNoTitle">true</item>
+        <item name="mediaRouteButtonStyle">@style/Widget.MediaRouter.MediaRouteButton</item>
+        <item name="mediaRouteHeaderTextAppearance">@style/TextAppearance.MediaRouter.Dynamic.Header</item>
+        <item name="mediaRouteBodyTextAppearance">@style/TextAppearance.MediaRouter.Dynamic.Body</item>
+
+        <item name="mediaRouteCloseDrawable">@drawable/mr_dialog_close_dark</item>
+        <item name="mediaRoutePlayDrawable">@drawable/mr_media_play_dark</item>
+        <item name="mediaRoutePauseDrawable">@drawable/mr_media_pause_dark</item>
+        <item name="mediaRouteStopDrawable">@drawable/mr_media_stop_dark</item>
+        <item name="mediaRouteAudioTrackDrawable">@drawable/mr_vol_type_audiotrack_dark</item>
+        <item name="mediaRouteDefaultIconDrawable">@drawable/ic_mr_button_disconnected_dark</item>
+        <item name="mediaRouteTvIconDrawable">@drawable/ic_vol_type_tv_dark</item>
+        <item name="mediaRouteSpeakerIconDrawable">@drawable/ic_vol_type_speaker_dark</item>
+        <item name="mediaRouteSpeakerGroupIconDrawable">@drawable/ic_vol_type_speaker_group_dark</item>
+        <item name="mediaRouteDividerColor">@color/mr_cast_route_divider_dark</item>
+
+        <item name="mediaRouteControlPanelThemeOverlay">@null</item>
+    </style>
+    <style name="Theme.MediaRouter.Light" parent="ThemeOverlay.AppCompat.Light">
+        <item name="windowNoTitle">true</item>
+        <item name="mediaRouteButtonStyle">@style/Widget.MediaRouter.Light.MediaRouteButton</item>
+        <item name="mediaRouteHeaderTextAppearance">@style/TextAppearance.MediaRouter.Dynamic.Header.Light</item>
+        <item name="mediaRouteBodyTextAppearance">@style/TextAppearance.MediaRouter.Dynamic.Body.Light</item>
+
+        <item name="mediaRouteCloseDrawable">@drawable/mr_dialog_close_light</item>
+        <item name="mediaRoutePlayDrawable">@drawable/mr_media_play_light</item>
+        <item name="mediaRoutePauseDrawable">@drawable/mr_media_pause_light</item>
+        <item name="mediaRouteStopDrawable">@drawable/mr_media_stop_light</item>
+        <item name="mediaRouteAudioTrackDrawable">@drawable/mr_vol_type_audiotrack_light</item>
+        <item name="mediaRouteDefaultIconDrawable">@drawable/ic_mr_button_grey</item>
+        <item name="mediaRouteTvIconDrawable">@drawable/ic_vol_type_tv_light</item>
+        <item name="mediaRouteSpeakerIconDrawable">@drawable/ic_vol_type_speaker_light</item>
+        <item name="mediaRouteSpeakerGroupIconDrawable">@drawable/ic_vol_type_speaker_group_light</item>
+        <item name="mediaRouteDividerColor">@color/mr_cast_route_divider_light</item>
+
+        <item name="mediaRouteControlPanelThemeOverlay">@null</item>
+    </style>
+    <style name="Theme.MediaRouter.Light.DarkControlPanel">
+        <item name="mediaRouteControlPanelThemeOverlay">@style/ThemeOverlay.MediaRouter.Dark</item>
+    </style>
+    <style name="Theme.MediaRouter.LightControlPanel">
+        <item name="mediaRouteControlPanelThemeOverlay">@style/ThemeOverlay.MediaRouter.Light</item>
+    </style>
     <style name="ThemeOverlay.AppCompat" parent="Base.ThemeOverlay.AppCompat"/>
     <style name="ThemeOverlay.AppCompat.ActionBar" parent="Base.ThemeOverlay.AppCompat.ActionBar"/>
     <style name="ThemeOverlay.AppCompat.Dark" parent="Base.ThemeOverlay.AppCompat.Dark"/>
@@ -2639,6 +2808,20 @@
     <item name="editTextStyle">@style/Widget.MaterialComponents.TextInputEditText.OutlinedBox.Dense
     </item>
   </style>
+    <style name="ThemeOverlay.MediaRouter.Dark" parent="ThemeOverlay.AppCompat.Dark">
+        <item name="mediaRoutePlayDrawable">@drawable/mr_media_play_dark</item>
+        <item name="mediaRoutePauseDrawable">@drawable/mr_media_pause_dark</item>
+        <item name="mediaRouteStopDrawable">@drawable/mr_media_stop_dark</item>
+        <item name="mediaRouteAudioTrackDrawable">@drawable/mr_vol_type_audiotrack_dark</item>
+        <item name="mediaRouteDividerColor">@color/mr_cast_route_divider_dark</item>
+    </style>
+    <style name="ThemeOverlay.MediaRouter.Light" parent="ThemeOverlay.AppCompat.Light">
+        <item name="mediaRoutePlayDrawable">@drawable/mr_media_play_light</item>
+        <item name="mediaRoutePauseDrawable">@drawable/mr_media_pause_light</item>
+        <item name="mediaRouteStopDrawable">@drawable/mr_media_stop_light</item>
+        <item name="mediaRouteAudioTrackDrawable">@drawable/mr_vol_type_audiotrack_light</item>
+        <item name="mediaRouteDividerColor">@color/mr_cast_route_divider_light</item>
+    </style>
     <style name="Widget.AppCompat.ActionBar" parent="Base.Widget.AppCompat.ActionBar">
     </style>
     <style name="Widget.AppCompat.ActionBar.Solid" parent="Base.Widget.AppCompat.ActionBar.Solid">
@@ -3009,6 +3192,14 @@
     
     <item name="android:minHeight">@dimen/mtrl_toolbar_default_height</item>
   </style>
+    <style name="Widget.MediaRouter.Light.MediaRouteButton" parent="Widget.AppCompat.Light.ActionButton">
+        <item name="externalRouteEnabledDrawable">@drawable/mr_button_light</item>
+        <item name="externalRouteEnabledDrawableStatic">@drawable/mr_button_light_static</item>
+    </style>
+    <style name="Widget.MediaRouter.MediaRouteButton" parent="Widget.AppCompat.ActionButton">
+        <item name="externalRouteEnabledDrawable">@drawable/mr_button_dark</item>
+        <item name="externalRouteEnabledDrawableStatic">@drawable/mr_button_dark_static</item>
+    </style>
     <style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
         <item name="statusBarBackground">#000000</item>
     </style>
@@ -4009,6 +4200,105 @@
         
         <attr name="android:color"/>
     </declare-styleable>
+    <declare-styleable name="GridLayout">
+
+        
+
+
+        
+        <attr name="orientation">
+
+            
+            <enum name="horizontal" value="0"/>
+            
+            <enum name="vertical" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="rowCount"/>
+        
+        <attr format="integer" name="columnCount"/>
+        
+        <attr format="boolean" name="useDefaultMargins"/>
+        
+        <attr name="alignmentMode">
+
+            
+            <enum name="alignBounds" value="0"/>
+            
+            <enum name="alignMargins" value="1"/>
+        </attr>
+        
+        <attr format="boolean" name="rowOrderPreserved"/>
+        
+        <attr format="boolean" name="columnOrderPreserved"/>
+    </declare-styleable>
+    <declare-styleable name="GridLayout_Layout">
+
+        
+
+
+        
+
+        <attr name="android:layout_width"/>
+        <attr name="android:layout_height"/>
+        
+        <attr name="android:layout_margin"/>
+        
+        <attr name="android:layout_marginLeft"/>
+        
+        <attr name="android:layout_marginTop"/>
+        
+        <attr name="android:layout_marginRight"/>
+        
+        <attr name="android:layout_marginBottom"/>
+
+        
+
+        
+        <attr format="integer" name="layout_row"/>
+        
+        <attr format="integer" min="1" name="layout_rowSpan"/>
+        
+        <attr format="float" name="layout_rowWeight"/>
+        
+        <attr format="integer" name="layout_column"/>
+        
+        <attr format="integer" min="1" name="layout_columnSpan"/>
+        
+        <attr format="float" name="layout_columnWeight"/>
+        
+        <attr name="layout_gravity">
+
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+    </declare-styleable>
     <declare-styleable name="LinearConstraintLayout"><attr name="android:orientation"/></declare-styleable>
     <declare-styleable name="LinearLayoutCompat">
         
@@ -4046,6 +4336,32 @@
         
         <attr name="android:dropDownHorizontalOffset"/>
     </declare-styleable>
+    <declare-styleable name="LottieAnimationView">
+        <attr format="string" name="lottie_fileName"/>
+        <attr format="reference" name="lottie_rawRes"/>
+        <attr format="string" name="lottie_url"/>
+        <attr format="reference" name="lottie_fallbackRes"/>
+        <attr format="boolean" name="lottie_autoPlay"/>
+        <attr format="boolean" name="lottie_loop"/>
+        <attr format="enum" name="lottie_repeatMode">
+            <enum name="restart" value="1"/>
+            <enum name="reverse" value="2"/>
+        </attr>
+        <attr format="integer" name="lottie_repeatCount"/>
+        <attr format="string" name="lottie_imageAssetsFolder"/>
+        <attr format="float" name="lottie_progress"/>
+        <attr format="boolean" name="lottie_enableMergePathsForKitKatAndAbove"/>
+        <attr format="color" name="lottie_colorFilter"/>
+        <attr format="float" name="lottie_scale"/>
+        <attr format="float" name="lottie_speed"/>
+        <attr format="boolean" name="lottie_cacheComposition"/>
+        
+        <attr format="enum" name="lottie_renderMode">
+            <enum name="automatic" value="0"/>
+            <enum name="hardware" value="1"/>
+            <enum name="software" value="2"/>
+        </attr>
+    </declare-styleable>
     <declare-styleable name="MaterialButton"><attr name="android:insetLeft"/><attr name="android:insetRight"/><attr name="android:insetTop"/><attr name="android:insetBottom"/><attr name="backgroundTint"/><attr name="backgroundTintMode"/><attr format="reference" name="icon"/><attr format="dimension" name="iconSize"/><attr format="dimension" name="iconPadding"/><attr name="iconGravity">
       
       <flag name="start" value="0x1"/>
@@ -4054,6 +4370,17 @@
     </attr><attr format="color" name="iconTint"/><attr name="iconTintMode"/><attr name="strokeColor"/><attr name="strokeWidth"/><attr format="dimension" name="cornerRadius"/><attr name="rippleColor"/></declare-styleable>
     <declare-styleable name="MaterialCardView"><attr name="strokeColor"/><attr name="strokeWidth"/></declare-styleable>
     <declare-styleable name="MaterialComponentsTheme"><attr name="colorAccent"/><attr name="colorPrimary"/><attr name="colorPrimaryDark"/><attr name="colorSecondary"/><attr name="scrimBackground"/><attr name="colorBackgroundFloating"/><attr name="bottomSheetDialogTheme"/><attr name="bottomSheetStyle"/><attr name="materialButtonStyle"/><attr name="chipGroupStyle"/><attr name="chipStyle"/><attr name="chipStandaloneStyle"/><attr name="editTextStyle"/><attr name="floatingActionButtonStyle"/><attr name="materialCardViewStyle"/><attr name="navigationViewStyle"/><attr name="tabStyle"/><attr name="textInputStyle"/><attr name="snackbarButtonStyle"/><attr name="textAppearanceHeadline1"/><attr name="textAppearanceHeadline2"/><attr name="textAppearanceHeadline3"/><attr name="textAppearanceHeadline4"/><attr name="textAppearanceHeadline5"/><attr name="textAppearanceHeadline6"/><attr name="textAppearanceSubtitle1"/><attr name="textAppearanceSubtitle2"/><attr name="textAppearanceBody1"/><attr name="textAppearanceBody2"/><attr name="textAppearanceCaption"/><attr name="textAppearanceButton"/><attr name="textAppearanceOverline"/></declare-styleable>
+    <declare-styleable name="MediaRouteButton">
+        
+        <attr format="reference" name="externalRouteEnabledDrawable"/>
+        
+        <attr format="reference" name="externalRouteEnabledDrawableStatic"/>
+        
+        <attr format="color" name="mediaRouteButtonTint"/>
+
+        <attr name="android:minWidth"/>
+        <attr name="android:minHeight"/>
+    </declare-styleable>
     <declare-styleable name="MenuGroup">
 
         
